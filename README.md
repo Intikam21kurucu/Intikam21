@@ -1,7 +1,7 @@
 # Intikam21
 BU İŞLEMLE YAPTIĞINIZ HİÇBİRŞEYDEN BEN SORUMLU DEĞİLİM!
 
-#İnstall Kali
+# İnstall Kali
 ````USAGE:
 apt update & apt upgrade
 apt install git
@@ -16,4 +16,4 @@ python3 Intıkam21.py`````
 
 
 
-#EVET GÖRÜNTÜLERİ PAYLAŞAMIYORUM😀
+# EVET GÖRÜNTÜLERİ PAYLAŞAMIYORUM😀
