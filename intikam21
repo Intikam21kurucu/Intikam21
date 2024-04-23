@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#python3_kali_version
 
 from pyfiglet import Figlet
 from colorama import Fore, init
