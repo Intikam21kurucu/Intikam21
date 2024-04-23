@@ -1,2 +1,2 @@
 # Intikam21
-It's a good framework 
+BU İŞLEMLE YAPTIĞINIZ HİÇBİRŞEYDEN BEN SORUMLU DEĞİLİM!
