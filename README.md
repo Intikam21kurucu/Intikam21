@@ -43,7 +43,7 @@ pkg install git
 
 git clone https://github.com/Intikam21kurucu/Intikam21
 
-python3 Intıkam21.py`````
+python3 Intıkam21.py``````
 
 # SORUMLULUK KABULU
 yaptığınız hiçbir işlemden biz sorumlu değiliz bu araç şaka amaçlı tasarlanmıştır...
