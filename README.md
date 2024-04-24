@@ -11,7 +11,19 @@ apt install base64
 
 git clone https://github.com/Intikam21kurucu/Intikam21
 
-python3 Intıkam21.py`````
+python3 Intıkam21.py
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
